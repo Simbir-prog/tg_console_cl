@@ -23,8 +23,8 @@ class Config:
     
     # Значения по умолчанию
     DEFAULT_CONFIG = {
-        "api_id": 27942015,
-        "api_hash": "c12c96c519b8f5727e6bf63dcac964d2",
+        "api_id": ххххх,
+        "api_hash": "YYYYY",
         "session_name": DEFAULT_SESSION_NAME,
         "messages_limit": 30,
         "dialogs_limit": 100,
